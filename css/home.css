@@ -1,0 +1,30 @@
+body {
+    background-color: #040C34;
+    padding-top: 8em;
+    font-family: 'Bebas Neue', cursive;
+}
+main {
+    margin-top: 3em;
+}
+#title {
+    font-size: 2rem;
+    color: #ffffff;
+    font-weight: 400;
+    padding-bottom: 0.5em;
+}
+.btn {
+    background-color: #525874;
+    color: #ffffff;
+    border: none;
+}
+.btn:hover {
+    background-color: #DC470B;
+    color: #ffffff;
+    border: none;
+}
+.btn:focus {
+    outline:0;
+}
+#guest-link {
+    color: #DC470B;
+}
